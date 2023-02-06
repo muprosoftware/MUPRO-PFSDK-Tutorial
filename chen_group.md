@@ -57,3 +57,32 @@ Xiaoxing Cheng
 # Proper tools are important
 ![bg right vertical](./images/good.png) 
 ![bg](./images/bad.png)
+
+
+
+---
+
+<!-- _header: Tools - Version control system -->
+
+<div class="twocols">
+
+Benefits include:
+- tracking changes
+- collaboration
+- backup
+- branching and merging
+
+Available systems:
+- **<span class="secondary">Git</span>**
+- Mercurial
+- SVN
+
+<p class="break"></p>
+
+Git is a **<span class="primary">must use tool</span>** for any kind of code development. 
+
+Even if you don’t understand why you should use this or feels inconvenient in the beginning, you have to force yourself keep using it.
+
+Git service providers:
+- **<span class="secondary">Github</span>**
+- Gitlab
