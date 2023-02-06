@@ -1,0 +1,16 @@
+div.tworows {
+    margin-top: 10px;
+    column-count: 1;
+  }
+  div.tworows p:first-child,
+  div.tworows h1:first-child,
+  div.tworows h2:first-child,
+  div.tworows ul:first-child,
+  div.tworows ul li:first-child,
+  div.tworows ul li p:first-child {
+    margin-top: 0 !important;
+  }
+  div.tworows p.break {
+    break-before: row;
+    margin-top: 0;
+  }
