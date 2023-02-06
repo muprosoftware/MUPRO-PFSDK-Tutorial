@@ -86,3 +86,17 @@ Even if you don’t understand why you should use this or feels inconvenient in 
 Git service providers:
 - **<span class="secondary">Github</span>**
 - Gitlab
+
+
+
+---
+
+<!-- 
+_header: Best practice - Git 
+-->
+
+*-* Use gitignore and only track necessary files
+*-* Separate your simulation program from simulation results
+*-* Keep commit small, and commit frequently
+*-* Keep branching simple, and as short life as possible
+*-* Tag your code when necessary
