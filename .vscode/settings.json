@@ -1,0 +1,8 @@
+{
+  "markdown.marp.themes": [
+    "https://raw.githubusercontent.com/rnd195/marp-community-themes/main/themes/beamer.css",
+    "./themes/academic.css",
+    "./themes/mupro.css",
+  ],
+  "markdown.marp.enableHtml": true
+}
