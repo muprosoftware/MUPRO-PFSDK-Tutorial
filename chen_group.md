@@ -49,3 +49,11 @@ Xiaoxing Cheng
 3. Code editor
 
 </div>
+
+
+---
+<!-- _class: lead-->
+
+# Proper tools are important
+![bg right vertical](./images/good.png) 
+![bg](./images/bad.png)
