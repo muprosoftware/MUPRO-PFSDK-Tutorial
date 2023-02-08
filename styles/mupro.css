@@ -1,0 +1,16 @@
+@import "./nord.css";
+
+:root {
+    --color-background: var(--nord6);
+    --color-foreground: var(--nord0);
+    --color-primary: var(--nord11);
+    --color-secondary: var(--nord14);
+  }
+
+.primary{
+    color: var(--color-primary);
+}
+
+.secondary{
+    color: var(--color-secondary);
+}
