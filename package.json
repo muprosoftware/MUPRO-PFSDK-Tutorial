@@ -1,0 +1,19 @@
+{
+  "name": "mupro-pfsdk-tutorial",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.2",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.46",
+    "@iconify-json/vscode-icons": "^1.1.21",
+    "playwright-chromium": "^1.30.0"
+  }
+}
