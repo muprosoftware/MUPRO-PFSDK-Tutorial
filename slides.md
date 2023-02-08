@@ -26,7 +26,7 @@ css: unocss
 layout: cover
 ---
 
-# MuPRO PhaseFieldSDK tutorial
+# PhaseFieldSDK walkthrough
 ## + Software development for our group members 
 
 <br/>
